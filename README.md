@@ -4,3 +4,5 @@
 
 Instructions:
 You play as the pink man! Explore the map using WASD or Arrow Keys until you find 3 coins, and win the game!
+
+Play it here!: https://wowsers195.itch.io/basic-platfomer
